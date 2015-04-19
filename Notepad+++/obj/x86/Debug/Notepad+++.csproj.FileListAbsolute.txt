@@ -1,0 +1,26 @@
+C:\Users\Jonata\AppData\Local\Temporary Projects\Notepad+++\obj\x86\Debug\Notepad___.Form1.resources
+C:\Users\Jonata\AppData\Local\Temporary Projects\Notepad+++\obj\x86\Debug\Notepad___.Properties.Resources.resources
+C:\Users\Jonata\AppData\Local\Temporary Projects\Notepad+++\obj\x86\Debug\Notepad+++.csproj.GenerateResource.Cache
+C:\Users\Jonata\AppData\Local\Temporary Projects\Notepad+++\bin\Debug\Notepad+++.exe
+C:\Users\Jonata\AppData\Local\Temporary Projects\Notepad+++\bin\Debug\Notepad+++.pdb
+C:\Users\Jonata\AppData\Local\Temporary Projects\Notepad+++\obj\x86\Debug\Notepad+++.exe
+C:\Users\Jonata\AppData\Local\Temporary Projects\Notepad+++\obj\x86\Debug\Notepad+++.pdb
+C:\Users\Jonata\Desktop\Notepad+++\Notepad+++\obj\x86\Debug\Notepad+++.exe
+C:\Users\Jonata\Desktop\Notepad+++\Notepad+++\obj\x86\Debug\Notepad+++.pdb
+C:\Users\Jonata\Desktop\Notepad+++\Notepad+++\bin\Debug\Notepad+++.exe
+C:\Users\Jonata\Desktop\Notepad+++\Notepad+++\bin\Debug\Notepad+++.pdb
+C:\Users\Jonata\Desktop\Notepad+++\Notepad+++\obj\x86\Debug\Notepad+++.csprojResolveAssemblyReference.cache
+C:\Users\Jonata\Desktop\Notepad+++\Notepad+++\obj\x86\Debug\Notepad___.Form1.resources
+C:\Users\Jonata\Desktop\Notepad+++\Notepad+++\obj\x86\Debug\Notepad___.Properties.Resources.resources
+C:\Users\Jonata\Desktop\Notepad+++\Notepad+++\obj\x86\Debug\Notepad+++.csproj.GenerateResource.Cache
+I:\TLP-II\Notepad+++\Notepad+++\obj\x86\Debug\Notepad+++.exe
+I:\TLP-II\Notepad+++\Notepad+++\obj\x86\Debug\Notepad+++.pdb
+E:\TLP-II\Notepad+++\Notepad+++\obj\x86\Debug\Notepad+++.exe
+E:\TLP-II\Notepad+++\Notepad+++\obj\x86\Debug\Notepad+++.pdb
+E:\TLP-II\Notepad+++\Notepad+++\bin\Debug\Notepad+++.exe
+E:\TLP-II\Notepad+++\Notepad+++\bin\Debug\Notepad+++.pdb
+E:\TLP-II\Notepad+++\Notepad+++\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\TLP-II\Notepad+++\Notepad+++\obj\x86\Debug\Notepad___.Form1.resources
+E:\TLP-II\Notepad+++\Notepad+++\obj\x86\Debug\Notepad___.Properties.Resources.resources
+E:\TLP-II\Notepad+++\Notepad+++\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\TLP-II\Notepad+++\Notepad+++\obj\x86\Debug\GenerateResource.write.1.tlog
